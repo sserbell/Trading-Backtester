@@ -34,6 +34,8 @@ Pandas data manipulation
 Backtesting trading strategies
 Visualizing financial data
 
+---
+
 ## Future Features
 - Allow users to set the initial investment amount (currently 1000)
 - Include realistic trading constraints
