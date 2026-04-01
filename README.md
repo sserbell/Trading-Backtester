@@ -1,2 +1,2 @@
 # Trading-Backtester
-Trading back tester that tests trading strategies on historical data.
+A Python backtester for stock strategies using moving averages."
