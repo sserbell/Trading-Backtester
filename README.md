@@ -13,11 +13,11 @@ A Python backtester for stock strategies using moving averages."
 ---
 
 ## Tech Stack 
-Language: Python
-Data Analysis: Pandas
-Financial Data: Yahoo Finance API (yfinance)
-Backtesting Logic: Custom Python code
-Visualization: Matplotlib
+- **Language:** Python
+- **Data Analysis:** Pandas
+- **Financial Data:** Yahoo Finance API (yfinance)
+- **Backtesting Logic:** Custom Python code
+- **Visualization:** Matplotlib
 
 ---
 
@@ -29,10 +29,10 @@ Visualization: Matplotlib
 ---
 
 ## Knowledge Gained
-API Integration
-Pandas data manipulation
-Backtesting trading strategies
-Visualizing financial data
+- API Integration
+- Pandas data manipulation
+- Backtesting trading strategies
+- Visualizing financial data
 
 ---
 
