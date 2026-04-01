@@ -1,4 +1,4 @@
-#Libraries used:
+# Libraries used:
 - pandas
 - yfinance
 - matplotlib
