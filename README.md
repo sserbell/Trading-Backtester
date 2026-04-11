@@ -28,6 +28,13 @@ A Python backtester for stock strategies using moving averages."
 
 ---
 
+### Sample Output
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/2878a02f-4412-491a-ac95-5175f244d1bb" />
+<img width="1909" height="318" alt="image" src="https://github.com/user-attachments/assets/f2421afb-a97e-4c6f-a28d-3c650ac18a20" />
+<img width="798" height="601" alt="image" src="https://github.com/user-attachments/assets/4cdf5882-b8bc-45ba-ae0f-12c881210456" />
+
+---
+
 ## Knowledge Gained
 - API Integration
 - Pandas data manipulation
